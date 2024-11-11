@@ -9,5 +9,5 @@ backend: php, mysql
 Код:
 https://github.com/Bokoffalexander/frontend_html_css_js__backend_php_mysql
 
-Сайт (кликабельно):
+Сайт (не кликабельно):
 http://109.71.247.68/frontend_html_css_js__backend_php_mysql/
