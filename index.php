@@ -149,6 +149,7 @@ $text = $_POST['text'];
 // Параметры для подключения 
 
 // Имя Таблицы БД 
+echo "Hello to You php";
 try { 
 // Подключение к базе данных 
 $db = new PDO("mysql:host=$host;port=$port;dbname=$dbname", 
